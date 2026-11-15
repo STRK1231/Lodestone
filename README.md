@@ -1,4 +1,5 @@
 <p align="center"><img src="logo.png" width="128" alt="Lodestone logo"></p>
+
 # Lodestone
 
 Lodestone is a free, native Windows app for managing Minecraft: Java Edition setups and mods. Browse and install mods from Modrinth, keep separate setups for different loaders and versions, back up your worlds, and hand a setup off to the official Minecraft Launcher with one click.
